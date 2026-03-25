@@ -1,0 +1,11 @@
+2026-03-25 21:23:51,366 - INFO - Job started
+2026-03-25 21:23:51,368 - INFO - Config loaded: {'seed': 42, 'window': 5, 'version': 'v1'}
+2026-03-25 21:23:51,374 - ERROR - CSV error: 'utf-8' codec can't decode byte 0xbc in position 10: invalid start byte
+2026-03-25 21:28:04,234 - INFO - Job started
+2026-03-25 21:28:04,235 - INFO - Config loaded: {'seed': 42, 'window': 5, 'version': 'v1'}
+2026-03-25 21:28:04,275 - ERROR - CSV error: Missing 'close' column
+2026-03-25 21:32:51,160 - INFO - Job started
+2026-03-25 21:32:51,163 - INFO - Config loaded: {'seed': 42, 'window': 5, 'version': 'v1'}
+2026-03-25 21:32:51,216 - INFO - Rows loaded: 10000
+2026-03-25 21:32:51,228 - INFO - Metrics: {'version': 'v1', 'rows_processed': 9996, 'metric': 'signal_rate', 'value': np.float64(0.4991), 'latency_ms': 68, 'seed': 42, 'status': 'success'}
+2026-03-25 21:32:51,231 - INFO - Job completed successfully
